@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Ahmed
 =====================================================================================================================================
 
-Frontend Developer | Software engineer | Full Stack Developer
+Frontend Developer 
 -------------------------------------------------------------
 
 I've Been coding for the past 6 years of my life, I started when I was 11 and it has spiraled into a deep addiction to tech and in particular programming, I'm passionate about tech and love anything that has to do with science, through countless months and years of learning code I can proudly call my self a software engineer/Frontend developer.
