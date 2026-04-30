@@ -99,7 +99,7 @@ Reverse-engineered an entire university portal to build a fully-featured Python 
 
 **Stack:** `Python` `Flask` `Redis` `Next.js` `GitHub Actions`
 
-[![Live Showcase](https://img.shields.io/badge/Live%20Showcase-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moe-portfolio.vercel.app)
+[![Live Showcase](https://img.shields.io/badge/Live%20Showcase-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://unisight.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ A full headless e-commerce backend with RESTful APIs that lets any frontend plug
 
 **Stack:** `Next.js` `TypeScript` `MongoDB` `REST APIs`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moe-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-adminpage.vercel.app/)
 
 </td>
 </tr>
