@@ -1,87 +1,120 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ahmed-aa2b09288" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/KiritoBloom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <!-- Uncomment and update when portfolio is live -->
-  <!--
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  -->
-</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Mohamed+Ahmed;I'm+a+passionate+Software+Engineer;Specializing+in+Full+Stack+Development" alt="Typing SVG">
+
+# Mohamed Ahmed
+
+**Full Stack Developer • API Engineer • Computer Science & Engineering Student**
+
+[Portfolio](https://moe-portfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-aa2b09288) • [GitHub](https://github.com/KiritoBloom) • [Email](mailto:mohamedahmedelsaadi@gmail.com)
+
 </div>
-
----
-
-### 👨‍💻 About Me
-
-I'm Mohamed Ahmed, a software engineer with 6 years of experience focused on full-stack development. I started coding at 11 and I build scalable, reliable apps. Based in Egypt, currently studying Computer Science and Engineering.
-
-- ✅ GitHub: [github.com/KiritoBloom](https://github.com/KiritoBloom)
-- ✅ LinkedIn: [linkedin.com/in/mohamed-ahmed-aa2b09288](https://www.linkedin.com/in/mohamed-ahmed-aa2b09288)
-- ✉️ Email: [mohamedahmedelsaadi@gmail.com](mailto:mohamedahmedelsaadi@gmail.com)
-- 🌐 Portfolio: _coming soon_
-
----
-
-### 🔧 Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,redux,tailwind,nodejs,mongodb,redis,firebase,git,githubactions,flask,csharp" />
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Engineering-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Focused-111111?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Work Experience
+## About
 
-**Full Stack Developer & API Engineer** | Self‑Employed (July 2022 – Present)
+I build fast, reliable web apps and backend systems that solve real problems.
 
-- Built a Python‑based API for university portal integration (auth, schedule, attendance, grades), serving 54+ active users; live on Google Play.
-- Used Flask blueprints + Redis caching for ~10 ms response times.
-- Set up GitHub Actions for real‑time data updates.
-- Created responsive web apps in React/Next.js with caching and lazy loading.
+I’m Mohamed Ahmed, a Full Stack Developer and API Engineer based in Egypt, currently studying Computer Science and Engineering at the German University in Cairo. I work on modern web apps, backend APIs, and performance-focused systems with a strong focus on clean architecture, caching, and automation. :contentReference[oaicite:1]{index=1}
 
 ---
 
-### 🚀 Projects
+## What I’ve Built
 
-#### Campus Portal API Service
-- Reverse‑engineered the university system: auth, schedules, attendance, grades, exam seating, CMS.
-- Built a Python API + Redis caching (~10 ms responses).
-- Made an admin panel with version control, monitoring, and user management.
-- Built a campus navigation site with live directions.
-
-#### Headless E‑Commerce Platform
-- Developed a full‑stack e‑commerce backend with REST APIs and multi‑storefront support.
-- Built an admin dashboard in Next.js + TypeScript: manage products, pricing, sales analytics, inventory.
-- Added secure auth and real‑time data sync with MongoDB.
+- Built a Python-based API for a university portal used by **300+ active users**.
+- Shipped backend services with **Flask**, **Redis caching**, and **GitHub Actions** automation.
+- Reached around **10ms response times** on cached endpoints.
+- Built responsive web apps with **React** and **Next.js** using caching and lazy loading.
+- Developed a full-stack e-commerce platform with an admin dashboard, analytics, inventory, and secure auth. :contentReference[oaicite:2]{index=2}
 
 ---
 
-### 🎓 Education
+## Featured Work
 
-**BSc in Computer Science & Engineering**  
-German University in Cairo (GUC)  
-November 2024 – November 2029
+### Campus Portal API Service
+**Python • Flask • Redis • Next.js • REST APIs**
+
+A reverse-engineered university portal system with auth, schedules, attendance, grades, exam seating, and CMS integration.
+
+- Built a Python API that replicates core portal functionality.
+- Used Redis caching to keep responses fast and stable.
+- Added an admin panel with version control, monitoring, and user management.
+- Created a campus navigation site with live directions and service discovery.
+- Deployed for real users, with the system supporting **300+ active users**. :contentReference[oaicite:3]{index=3}
+
+### Headless E-Commerce Platform
+**Next.js • TypeScript • MongoDB • REST APIs**
+
+A decoupled commerce backend with a clean admin experience and flexible storefront support.
+
+- Built REST APIs for product, pricing, inventory, and store workflows.
+- Made an admin dashboard for management and sales tracking.
+- Added secure authentication and real-time sync with MongoDB.
+- Designed it so multiple frontend clients can connect to the same backend. :contentReference[oaicite:4]{index=4}
 
 ---
 
-### 📈 GitHub Stats
+## Experience
+
+### Full Stack Developer & API Engineer  
+**Self-Employed** · *July 2022 – Present*
+
+- Co-developed a mobile application connected to a Python API for university portal integration.
+- Built modular Flask backend services with Redis caching and GitHub Actions automation.
+- Developed React / Next.js web apps with performance optimizations like caching and lazy loading. :contentReference[oaicite:5]{index=5}
+
+---
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, HTML5, CSS3  
+**Frontend:** React, Next.js, Redux, Tailwind CSS, Bootstrap  
+**Backend:** Flask, Express.js, REST APIs  
+**Database / Cache:** MongoDB, Redis, Firebase  
+**Tools:** Git, GitHub Actions, Vercel, npm :contentReference[oaicite:6]{index=6}
+
+---
+
+## Education
+
+**BSc in Computer Science and Engineering**  
+**German University in Cairo (GUC)**  
+*Nov. 2024 – Nov. 2029* :contentReference[oaicite:7]{index=7}
+
+---
+
+## Languages
+
+English • Arabic • Korean • German :contentReference[oaicite:8]{index=8}
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/KiritoBloom">
-    <img src="https://github-readme-stats.vercel.app/api?username=KiritoBloom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=7F3FBF&icon_color=7F3FBF" alt="KiritoBloom’s GitHub Stats">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KiritoBloom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiritoBloom&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Contact
+
+- **Email:** mohamedahmedelsaadi@gmail.com
+- **LinkedIn:** linkedin.com/in/mohamed-ahmed-aa2b09288
+- **GitHub:** github.com/KiritoBloom
+- **Portfolio:** moe-portfolio.vercel.app
+
+---
+
+<p align="center">
+  <i>Building software that is fast, useful, and hard to break.</i>
 </p>
